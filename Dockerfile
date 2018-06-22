@@ -6,7 +6,7 @@ RUN mkdir /data
 WORKDIR /data
 
 # environment for osticket
-ENV OSTICKET_VERSION 1.10.1
+ENV OSTICKET_VERSION 1.10.3
 ENV HOME /data
 
 # requirements and PHP extensions
